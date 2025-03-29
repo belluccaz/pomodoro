@@ -46,9 +46,6 @@ python main.py
 - Click **Reset** to stop and reset the timer.
 - A ✔ mark is added after each completed work session.
 
-## Screenshots
-![Pomodoro Timer Screenshot](file:///home/lucas/Imagens/Capturas%20de%20tela/pomodorotimer.png) *(Replace with an actual screenshot of the app)*
-
 ## Contributing
 Feel free to fork this repository and submit pull requests if you'd like to improve the project!
 
