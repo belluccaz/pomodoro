@@ -12,6 +12,7 @@ A simple **Pomodoro Timer** application built using Python and Tkinter, followin
 - **Python** (3.x)
 - **Tkinter** (GUI framework)
 - **Math module** (for time calculations)
+- **AI to organize**
 
 ## Installation
 ### Prerequisites
