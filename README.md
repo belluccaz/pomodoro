@@ -23,7 +23,7 @@ python --version
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/belluccaz/pomodoro-timer.git
+git clone https://github.com/belluccaz/pomodoro.git
 cd pomodoro-timer
 ```
 
