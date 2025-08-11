@@ -24,7 +24,7 @@ python --version
 ### Clone the Repository
 ```sh
 git clone https://github.com/belluccaz/pomodoro.git
-cd pomodoro-timer
+cd pomodoro
 ```
 
 ### Run the Application
